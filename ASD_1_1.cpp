@@ -11,7 +11,6 @@ int main() {
         }
 
     } while (maksimum < 1 || maksimum > 100);
-
    
     while (true) {
         std::cin >> liczba;
