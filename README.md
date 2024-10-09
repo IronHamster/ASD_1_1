@@ -1,20 +1,18 @@
 # ASD_1_1
-Maksymalna liczba w ciągu
+## Maksymalna liczba w ciągu
 
 Dany jest ciąg nieujemnych liczb całkowitych zakończony zerem, przy czym zero nie jest elementem tego ciągu.
 
 Należy znaleźć maksymalną liczbę w danym ciągu.
 
-Wejście
+### Wejście
 Na wejściu znajduje się ciąg nieujemnych liczb całkowitych, z przedziału [1;100], zakończony zerem. Zero służy do określenia końca ciągu, w związku z czym wystąpi na wejściu dokładnie raz. Każdy element ciągu podany jest w osobnej linii.
 
-Wyjście
-
+### Wyjście
 Na wyjściu należy wypisać wartość maksymalnej liczby w danym ciągu.
 
-Przykład
-
-Wejście:
+### Przykład
+**Wejście:**
 
 1
 
@@ -32,6 +30,7 @@ Wejście:
 
 0
 
-Wyjście:
+
+**Wyjście:**
 
 11
